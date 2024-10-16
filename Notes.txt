@@ -1,0 +1,5 @@
+Session allows you to store variables that can be used across multiple pages unlike cookies
+session data is stored on the server reducing security risk
+1. To start a server in php we use session_start() at the begining of code this function must be start before any html output
+2.session variables are stored in the Global $session array
+3.
